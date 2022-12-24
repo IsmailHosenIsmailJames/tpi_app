@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/home/ismail/tpi_app/build/sqflite/intermediates/merged_res/release/layout/notification_template_part_chronometer.xml",
+        "source": "/home/ismail/.gradle/caches/transforms-3/aa701b47cec244085d46a1a42fcc7fb9/transformed/core-1.6.0/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/home/ismail/tpi_app/build/sqflite/intermediates/merged_res/release/layout/notification_template_icon_group.xml",
+        "source": "/home/ismail/.gradle/caches/transforms-3/aa701b47cec244085d46a1a42fcc7fb9/transformed/core-1.6.0/res/layout/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/home/ismail/tpi_app/build/sqflite/intermediates/merged_res/release/layout/custom_dialog.xml",
+        "source": "/home/ismail/.gradle/caches/transforms-3/aa701b47cec244085d46a1a42fcc7fb9/transformed/core-1.6.0/res/layout/custom_dialog.xml"
+    },
+    {
+        "merged": "/home/ismail/tpi_app/build/sqflite/intermediates/merged_res/release/layout/notification_template_part_time.xml",
+        "source": "/home/ismail/.gradle/caches/transforms-3/aa701b47cec244085d46a1a42fcc7fb9/transformed/core-1.6.0/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/home/ismail/tpi_app/build/sqflite/intermediates/merged_res/release/layout/notification_action.xml",
+        "source": "/home/ismail/.gradle/caches/transforms-3/aa701b47cec244085d46a1a42fcc7fb9/transformed/core-1.6.0/res/layout/notification_action.xml"
+    },
+    {
+        "merged": "/home/ismail/tpi_app/build/sqflite/intermediates/merged_res/release/layout/notification_action_tombstone.xml",
+        "source": "/home/ismail/.gradle/caches/transforms-3/aa701b47cec244085d46a1a42fcc7fb9/transformed/core-1.6.0/res/layout/notification_action_tombstone.xml"
+    }
+]

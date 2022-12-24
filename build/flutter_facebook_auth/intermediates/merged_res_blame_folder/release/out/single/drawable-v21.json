@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/home/ismail/tpi_app/build/flutter_facebook_auth/intermediates/merged_res/release/drawable-v21/abc_list_divider_material.xml",
+        "source": "/home/ismail/.gradle/caches/transforms-3/9346a27f47264b8c166f01f4004f0589/transformed/appcompat-1.1.0/res/drawable-v21/abc_list_divider_material.xml"
+    },
+    {
+        "merged": "/home/ismail/tpi_app/build/flutter_facebook_auth/intermediates/merged_res/release/drawable-v21/abc_edit_text_material.xml",
+        "source": "/home/ismail/.gradle/caches/transforms-3/9346a27f47264b8c166f01f4004f0589/transformed/appcompat-1.1.0/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/home/ismail/tpi_app/build/flutter_facebook_auth/intermediates/merged_res/release/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/home/ismail/.gradle/caches/transforms-3/9346a27f47264b8c166f01f4004f0589/transformed/appcompat-1.1.0/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/home/ismail/tpi_app/build/flutter_facebook_auth/intermediates/merged_res/release/drawable-v21/abc_dialog_material_background.xml",
+        "source": "/home/ismail/.gradle/caches/transforms-3/9346a27f47264b8c166f01f4004f0589/transformed/appcompat-1.1.0/res/drawable-v21/abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "/home/ismail/tpi_app/build/flutter_facebook_auth/intermediates/merged_res/release/drawable-v21/notification_action_background.xml",
+        "source": "/home/ismail/.gradle/caches/transforms-3/aa701b47cec244085d46a1a42fcc7fb9/transformed/core-1.6.0/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/home/ismail/tpi_app/build/flutter_facebook_auth/intermediates/merged_res/release/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/home/ismail/.gradle/caches/transforms-3/9346a27f47264b8c166f01f4004f0589/transformed/appcompat-1.1.0/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    }
+]
